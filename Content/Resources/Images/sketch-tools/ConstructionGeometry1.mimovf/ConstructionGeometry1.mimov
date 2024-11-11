@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MimicMovie Version="8" X="45" Y="167" Width="640" Height="480" OutputType="html5">
+    <Frames>
+        <Frame Id="5oVM8zh_xUWDmv5T21f22Q" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1725" TimeSpanned="true" Bitmap="Frame1.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="99" Y="37" ShapeTimeSpan="10000" Label="Rectangle 0" Id="eqnJePrMLkSOqRZ-O2GDJw" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="211" Y="137" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="211,137" InValue="191,117" OutValue="231,157" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1425" TargetValue="98,36" InValue="78,16" OutValue="118,56" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1425" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1525" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1625" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="X414GV8b_02F-jLtISMAqA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1486" TimeSpanned="true" Bitmap="Frame2.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="66" Y="188" ShapeTimeSpan="10000" Label="Rectangle 0" Id="uyaeaqQnNE-2cQyjGBlzPg" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="98" Y="37" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="98,37" InValue="78,17" OutValue="118,57" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1186" TargetValue="65,187" InValue="45,167" OutValue="85,207" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1186" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1286" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1386" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="dslKooabmkGYHzzAHI6C-A" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="2856" TimeSpanned="true" Bitmap="Frame3.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="168" Y="39" ShapeTimeSpan="10000" Label="Rectangle 0" Id="8YVi3FNSdkSTPiSy-gM8gg" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="65" Y="187" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="65,187" InValue="45,167" OutValue="85,207" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="2556" TargetValue="167,38" InValue="147,18" OutValue="187,58" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2556" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2656" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2756" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="9oAgbdL5Xkugpsg49rM0mA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="500" TimeSpanned="true" Bitmap="Frame4.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="210" Y="113" ShapeTimeSpan="10000" Label="Rectangle 0" Id="wr9iWZ5020Gvw8I8FeOcQA" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="167" Y="38" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="167,38" InValue="147,18" OutValue="187,58" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="200" TargetValue="209,112" InValue="189,92" OutValue="229,132" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="200" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="300" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="400" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="sJPs5_SwDk-_NdyrGeaI8Q" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1248" TimeSpanned="true" Bitmap="Frame5.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="209" Y="112" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="RXB0kFkf3E2M-ef7uHVeKQ" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1268" TimeSpanned="true" Bitmap="Frame6.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="509" Y="112" ShapeTimeSpan="10000" Label="Rectangle 0" Id="nWBxBgB3MUeYynPsXG0a4Q" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="475" Y="254" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="475,254" InValue="455,234" OutValue="495,274" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="968" TargetValue="508,111" InValue="488,91" OutValue="528,131" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="968" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1068" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1168" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="YR4mbSZSqki5Ckah3H_GUA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1399" TimeSpanned="true" Bitmap="Frame7.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="549" Y="253" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="s2s0QquERkSRTOj5dfAScg" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="4362" TimeSpanned="true" Bitmap="Frame8.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="496" Y="36" ShapeTimeSpan="10000" Label="Rectangle 0" Id="LY39lrgigUSGqQgkuLAJlA" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="549" Y="253" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="549,253" InValue="529,233" OutValue="569,273" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="4062" TargetValue="495,35" InValue="475,15" OutValue="515,55" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="4062" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="4162" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="4262" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="q8Z7u63wsUKxXI1mFaaXJw" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1718" TimeSpanned="true" Bitmap="Frame9.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="190" Y="86" ShapeTimeSpan="10000" Label="Rectangle 0" Id="LZlN7F9tQEiSQCwN4JYBDw" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="494" Y="35" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="494,35" InValue="474,15" OutValue="514,55" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1418" TargetValue="189,85" InValue="169,65" OutValue="209,105" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1418" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1518" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1618" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="ItGHxGFwu06yPL_jazY2aA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="2697" TimeSpanned="true" Bitmap="Frame10.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="490" Y="273" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="5mrNJxpGD0iMOziuL93j8A" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="2567" TimeSpanned="true" Bitmap="Frame11.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="156" Y="34" ShapeTimeSpan="10000" Label="Rectangle 0" Id="G9L2gm0dLUyJ0aRsWBfknw" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="491" Y="274" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="491,274" InValue="471,254" OutValue="511,294" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="2267" TargetValue="155,33" InValue="135,13" OutValue="175,53" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2267" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2367" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="2467" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="jhl8v7mAAkuACbptWg4niw" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1170" TimeSpanned="true" Bitmap="Frame12.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="499" Y="93" ShapeTimeSpan="10000" Label="Rectangle 0" Id="hkMac4-lT06c7TsfWmTmvQ" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="155" Y="33" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="155,33" InValue="135,13" OutValue="175,53" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="870" TargetValue="498,92" InValue="478,72" OutValue="518,112" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="870" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="970" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1070" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="PRxPQoddJEWHxltVdXvlsQ" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1009" TimeSpanned="true" Bitmap="Frame13.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="581" Y="312" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="WqHp9_fwO0K7TMLIvh6YIA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1889" TimeSpanned="true" Bitmap="Frame14.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="490" Y="36" ShapeTimeSpan="10000" Label="Rectangle 0" Id="x2LDT0uGo0ikVA0jSZks6w" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="581" Y="312" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="581,312" InValue="561,292" OutValue="601,332" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1589" TargetValue="489,35" InValue="469,15" OutValue="509,55" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1589" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1689" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1789" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="NAfdCXzEz06l8coO2NakWw" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="4224" TimeSpanned="true" Bitmap="Frame15.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="310" Y="112" ShapeTimeSpan="10000" Label="Rectangle 0" Id="wwLZ4qGg8UiIyXSWVxX0Gg" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="490" Y="35" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="490,35" InValue="470,15" OutValue="510,55" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="3924" TargetValue="309,111" InValue="289,91" OutValue="329,131" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="3924" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="4024" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="4124" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="Ugk-O05UkkuTEOudfuw5-w" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="500" TimeSpanned="true" Bitmap="Frame16.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="208" Y="177" ShapeTimeSpan="10000" Label="Rectangle 0" Id="KMDFosbACEW31aCgSBRzlw" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="309" Y="112" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="309,112" InValue="289,92" OutValue="329,132" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="200" TargetValue="207,176" InValue="187,156" OutValue="227,196" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="200" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="300" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="400" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="ubIJTQPaG0-hlYw-UoBE_w" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="500" TimeSpanned="true" Bitmap="Frame17.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="208" Y="176" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="ACgptrBE8UWj4lv4oD_szQ" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1718" TimeSpanned="true" Bitmap="Frame18.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="247" Y="255" ShapeTimeSpan="10000" Label="Rectangle 0" Id="zvU7E_vVaEuD9KU8NddO6Q" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="208" Y="176" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="208,176" InValue="188,156" OutValue="228,196" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1418" TargetValue="246,254" InValue="226,234" OutValue="266,274" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1418" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1518" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1618" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="ffHNt4maGU2Ya2IAQ7I5EA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1535" TimeSpanned="true" Bitmap="Frame19.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="476" Y="200" ShapeTimeSpan="10000" Label="Rectangle 0" Id="HISJ_u_DHkOgTI5emhlhJA" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="247" Y="254" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="247,254" InValue="227,234" OutValue="267,274" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="1235" TargetValue="475,199" InValue="455,179" OutValue="495,219" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1235" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1335" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1435" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="FnJWiZtVP0GXj0WOodllcw" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="1152" TimeSpanned="true" Bitmap="Frame20.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" LineWidth="0" Width="48" Height="48" X="496" Y="37" ShapeTimeSpan="10000" Label="Rectangle 0" Id="hlKyF58SC0Sp97U9M8CNwA" StartTime="0" EndTime="1">
+                        <Actions>
+                            <Action Event="Click" Action="GotoNext" />
+                        </Actions>
+                        <KeyFrames />
+                    </Shape>
+                    <Shape Type="Cursor" X="475" Y="196" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" StartTime="0" EndTime="1">
+                        <KeyFrames>
+                            <KeyFrame TargetProperty="Position" TargetValue="475,196" InValue="455,176" OutValue="495,216" />
+                            <KeyFrame TargetProperty="Position" TargetTimeMS="852" TargetValue="495,36" InValue="475,16" OutValue="515,56" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="852" TargetValue="0.2" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="952" TargetValue="0.6" />
+                            <KeyFrame TargetProperty="Opacity" TargetTimeMS="1052" TargetValue="0.2" />
+                        </KeyFrames>
+                    </Shape>
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+        <Frame Id="AeSgLzZWbE2npNvM95hpIA" Type="Rectangle" ShapeTimeSpan="10000" TimeSpan="2038" TimeSpanned="true" Bitmap="Frame21.jpg">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Cursor" X="494" Y="36" Width="34" Height="34" ShapeTimeSpan="10000" Right="222" Bottom="20" Left="2" Top="118" PaddingLeft="5" PaddingRight="5" PaddingTop="5" PaddingBottom="5" LineWidth="1" BackgroundColor="orange" Transparency="0.8" SoundEffect="system:MiscSingleClick.mp3" Label="Cursor 0" Id="UHxIzsQ8TkKI18y5QuXA8Q" TimeSpanned="False" />
+                </Shapes>
+            </Shapes>
+            <ActionShapes />
+            <AFrames />
+            <Sounds />
+        </Frame>
+    </Frames>
+    <TargetSet>
+        <Target Title="Default" />
+    </TargetSet>
+</MimicMovie>

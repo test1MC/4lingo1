@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="96" medium_print_ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_ExportFormat="png" ImageScaleFactor="0.5" ComputedWidth="24" ComputedHeight="24">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH3wcfEjIoUoEUFgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAADFUlEQVRoge2ZTUhUURiGn3OuJDSaILa4JONPoTNlhaMgiJpOjiGu3blwVRuDINBZ6LZVEeRsShCCAmlhQoY/UVl3IqFVNZkmmQkys6vx4namhTk1zoyVztx7hN7lPWfxPHzfOXfmu+LT+rc4BzjSboD95r+A3cmzGyBTJh7c5838K75+WcF1soZmr48WbwdCiKR9SlZgJHCT6UfjeFtbGB6+xZkaN2N3R7gzfINYLJa0V7kKGM+f8OLpNKOjo7jdboQQ1NfX09XVRW9vL01t7ZysOZuohHIV+Bh6T2dnJy6XCyklQgiklFRXV1NbW8ti6B3w6+ZXTmBz06SgoCCl14UQ6Lqesl85gbLySoLBIPF48vvVNE0Mw6C45CjwS04pgbXVFWYmJ1hfX8fv9xONRgGIRCL09fWRdyifuobGpOoIVX5KrK2ucG2on2j0O0Ci93VdJxwOU+os42LfVSpOVCUJKHEL7YQHaGptp9nrQwiB47ADZ8VxNClhx9mwXSAdfHObj0uXryI1DfjZ8TvAt2OrwG7wWt7fodl2iLMBDzYJZAsebBDIJjxYLJBteLBQIBfwYJFAruDBAoFcwkOOBXINDzkUsAIeciRgFTzkQMBKeMiygNXwkEUBO+AhSwJ2wUMWBOyEh30K2A0P+xBQAR72KKAKPOxBQCV4+EcB1eDhD3/qXz6bZfFDiM1Nk7LySmYmJ9jYiCbW7YaHXSowErjJ7VvXceRLKp3HeP3yKaa5kVhXAR4yTObGx+4x+/ghgUCAqqqtSVg8Hsfv9zM3N0dTa7sS8JChAm/mg3R3d+NyudA0DSklmqYxODiIlJJmry8xdLI7aQVWVz7j8XhSRtxFRUXoup7y3M6kFXCfOo1hGCnPI5EI4XAYx2EHqiikFWg538HU1BTLy8uJOb1pmgwMDFDqLMNZcTzjrNLqpD2F585fYGkhRE9PDx6PB13XMQyDvEP5XOkf2poSK5KM3wdisRgLobcsfXgPQHHJUeoaGiksPKLUGdj1A8dW+2wvC6XAt7PrRb4FrB7071GnmfeYAy/wA3F+lNYClOnkAAAAAElFTkSuQmCC</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

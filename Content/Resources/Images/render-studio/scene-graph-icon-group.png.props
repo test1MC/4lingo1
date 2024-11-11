@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="120" medium_print_ExportFormat="png" medium_print_DPI="96" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="Parent group icon" ComputedWidth="32" ComputedHeight="32" Format="png">iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH5gQEEiUGaBlhZAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACMElEQVRYhe2WsariQBSG/7vRqyh22gl2omCqKQRR9AXEzkIQtHB8hJQWNr6CNtpZi5aWYuOkUhBsRLAR7UTBQDhbLA5mvWyybOSy4A9h5vycZL4czgzzQUSEb9SP71z8DfAG+CsA0zSfPMMwXg8wHA6Rz+eRTqfRbrcBALvdDpVKBZlMBpVKBbvdDgDQ6/VQrVbRbDbR6/XcAej3+7hcLgCA0WiEzWYjRwAyvgOs12vouo7pdOoOwPV6tcSGYeB2u1m832MA8Pl87gAUi0U5V1UVqVQK2WzWknOPOefSy+VyjgA+nBzFm80Gt9sNqqpK73g8Yr/fIxqNIhKJOFrsK3nsEk6nEw6HA0zTxPl8RigUkv5isYDf75cA5/MZuq5DURQkk0mEw2F7ArKRpmnEGCPGGHHOiYhICCE9xhgJIYiIiHMuPU3T7D5NRES2FXjsZl3X5fOoe/zou7YLHpswFouBMYZCoWDJKRQKYIwhFot9+d4f5aRM3W6XBoOBxRNCEOdclv+uwWBA3W7XUfmJiFzfBavVCh6PB4lEwp0KdDod2Vi1Wo2IiObzuaUJ5/M5ERE1m03ptVotRxWw7YHxeCzny+USq9UKs9nMkjObzbDdbiGEkN5kMnFUAFuAQCBgiT8/P5+OWZ/PB6/X+5TnCkC9XkcwGAQAlEolxONxOQKQcTQaRblcBgD4/X40Gg1HAI6aEPh1H1AUxeIZhuH4T/8Z4FX6f65kb4A3wBvgVfoJYlAH9AFPvnAAAAAASUVORK5CYII=</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

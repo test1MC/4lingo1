@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" EnableCropRectangle="false" ExportFormat="png" DPI="96" medium_print_ExportFormat="png" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="iOS menu icon" ComputedWidth="25" ComputedHeight="18" Format="tiff">SUkqAIYCAACAOt3Pd/hUgqIABIHggAAoEAQAP1/v8ARWKgEAxUFgkDAB3vF8AAFgqIAKMAB8Pp+xaWS2XS+YSwBACMv1+P4AOh1PQAMdTlEADUtq6JxQAMtS0CY0uRDpPABGnIcgA0FQU0ysVmslo9L8AK9fOCKi5NP9PIIfgAwk8TVqXgEWJgAJA9D0AG8tCu3Xu+T1oukAD0xLKKjCyp1A2kxE62spqOsAPZ8PsAPqbgAci0LAAGguOgEVpcAIw8DwAHMui2+6usMBnOYAEc0LeaDGyp5AWkwYwAEAzrUANhuu/Ivh+ADcWkqEQQzQWaJGHfTajVazrS9fMzYEk07QA7Z/pk+3YylEUda4dDpafU9f3SxfM3t7Pa2VObkAYu2oZPM+cnYe6UMsqirAAGQUAq5z1Om9r3ve+L5u88DkgA3a2j0SplgAcp0nqAB7wGOguhcAAbBWzb0tG9bqQdB75AAJL6O+srxPI8z0OfFUGOrFrrQhGEZQm/ELRgNjaGybx4gAeqVAATI9tMKAgg/BUdPZHketXH8YwkspNj8tIxigtrsnLJZ6uOfR9pWH4ag2AAKAeA8qujHcsx9F8uPq8LxgA8rztYuC5OiHcrzu1ktyCspNT6Mkb0CuMVULFlDr7RMuz5G1ANXQVJUNSq+Oy7busK278LWttIUGO9JwbUC3NcdAACQNDgAAsh/k6tD8rY9AWrkSA8rsvC9Vetxjr+AAeDCwgai4WB/n4y5mp+mjVgWpzRjiqY0iqq9jK0K48l8ABaGAcQAHaeR8H+CYeoQCIHI6A4DgGAB/pwlqMo0BICgAeUmIaBKIXwip8zXcCKpMjJ+H6nB1nVDxllYKYAICABAA/gAEAAEAAAAAAAAAAAEEAAEAAAAZAAAAAQEEAAEAAAASAAAAAgEDAAQAAABMAwAAAwEDAAEAAAAFAAAABgEDAAEAAAACAAAAEQEEAAEAAAAIAAAAFQEDAAEAAAAEAAAAFgEEAAEAAAASAAAAFwEEAAEAAAB9AgAAGgEFAAEAAABUAwAAGwEFAAEAAABcAwAAHAEDAAEAAAABAAAAKAEDAAEAAAACAAAAPQEDAAEAAAACAAAAUgEDAAEAAAACAAAAAAAAAAgACAAIAAgAwNQBAOgDAADA1AEA6AMAAA==</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

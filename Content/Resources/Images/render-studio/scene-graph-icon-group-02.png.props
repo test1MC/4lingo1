@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="120" medium_print_ExportFormat="png" medium_print_DPI="96" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="Part Studio or Assembly icon" ComputedWidth="18" ComputedHeight="18" Format="png">iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH5gYNDg4BkvlPUAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABkUlEQVQ4ja2UMcuyYBSGrzLERRpChzYXw8FBWsLRv9DWP1AI3IO2drfmoK1f0OLo6CIo9AMcsmhpEEGeb3ipl77i5Xvru+EM5/A8F+fcB05HCCGqquI3EkKg6/pDrVdVFbPZDMMwkCTp6dPlcqFtWxRFudfKsiSKImzb/gYBGIbB9XrFdV1kWX6CFUWB7/uYpglAHMeEYfgA6wJIkoTruiRJQtM0TyDLsliv1xwOBwA8z2OxWBCGIVmWAdA5Ho9iuVziOA5N05AkCaPR6KU3eZ4TBAGqqgKQpinb7ZbdbvfV0U2yLGOaJqfTCSHEU1iWxX6/v+eO46Bp2rdHf2swGDAcDl92Vdc14/H4nt+W0H35+g114WvF/wXUti1FUXwOUhQF3/c/gt09Mk0T3/fJ8/wz0A0WBAFN01DX9cuYTCYvQT0hBGVZEscxnuehqirT6fRhxf+inq7rRFFEGIYA9Pv990ezbZsoilitVqRp+haoI4QQtyTLMubzOZqmPZyNn3Q+n9lsNo8ggN8eOQBN0/gDGNu8LJNUxCcAAAAASUVORK5CYII=</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

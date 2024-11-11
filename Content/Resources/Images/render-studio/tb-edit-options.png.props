@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="120" medium_print_ExportFormat="png" medium_print_DPI="96" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="Edit options icon" ComputedWidth="20" ComputedHeight="19" Format="png">iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH5gUUEi8W4jjnpQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACIUlEQVQ4ja2UsWsiQRjFfwmHECxCUDAIaRZTpDDNEMj/YMReYyAIplMiKQIiFpomnSKIWxrSWGmppAkLptHCPo0srAgGRUg9V+Qcs+eqObgHCztv3rx9334zsyOllPxH7P6L+Pb2lk6nw3w+Xy+SDqjValIIIXO5nBwMBnI2m8nHx0cphFDPOuz8XXK73SabzW5N22g00DRte8nBYPAn1XN/f0+/30fXdQzDUPxKQl3X0XUdALfbTSwWw+/34/F4ME0TwzB4e3uzmXu9XiqVCoFAYGl4c3MDQL/fB+D8/JxMJuNYVqvVolAo2Lh0Ok08HucXgGEYymiRLJ1OO5oBRCIRhsMh9XodACEE8Xgc+PMPm82mbcHFxQXHx8eOZt81Cwgh1PsuQLFY5OrqSpFnZ2cbzQA0TVMVDIdDu+He3h6pVEqlGo1GWw0BxuMx8LXVUqkUpmkut41lWViWBbDSRSe8vr7y+fmpxt1ul6Ojo6VhuVxWgm63y9PT00bDarVqG5+engJ8dXk2m6n4C5RKJSaTCdFoFJ/Pp/iXlxeen595f38HIJlM2pqi9uFgMCCRSHBwcMB0OlUCl8vF4eEh+/v7WJbFx8eHmguHw+TzeVuQlZMCMJlMeHh4sB0pJwghqNVqNs7x+vJ6vYRCIRunaRqXl5ecnJxs/Ijj9SWllL1eT15fX0shhLy7u7PNJZNJ2ev1HNetNfwO0zR/IpNSSvkbuLGPiEQotmUAAAAASUVORK5CYII=</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

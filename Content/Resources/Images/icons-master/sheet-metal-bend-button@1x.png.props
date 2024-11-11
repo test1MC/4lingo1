@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="72" medium_print_ExportFormat="png" medium_print_DPI="96" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="Sheet metal bend button" ComputedWidth="20" ComputedHeight="20" Format="png">iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIDSURBVHgB5ZI9ayJRFIbPzAQVUREs/CoUtVJwRe1s3Ea23BXs1N3aZs0vSFKlTPwFEW3SpgsWJmm0UTGNhSAZwY+xS1BUFDTnXKKMUQNJqpAX7sz9OPe557z3Anw7CfAB+f3+M4vFco1N7Pf79/I1fkdwGtvRPlggEPhvMpnSiUSChlkc/30zQ6PRKHEcd242m/V4+p18zefz2Xmev0ylUqpoNAoIhlKp9Fue6RZQkqRHhF69hiJMLwhCORKJmJLJJIt1Op1b0J0e7oLihlOdTvcrFouBzWZbx76GcvCGXkq8QbCoVCrDVKZWqwW32w0ej2cjNh6PUyL1AzT1Yh9wuVz6EKbHbhgzZTBSo9Fg/xU0l8sRTFwsFn8OcPwPy4OXW1uLNo3HYwZRKBRQKBSgWq3SLW9ADQYD5PN5wIOP6/W6KFitVm40GoU1Gg2Q2S6XizWv1wvT6RRUKhWo1Wqw2+1QLpdhNpsBesVgnU4HMpkMTCaTLB52QnNCr9e7JWir1QoPBgMIhUIsmLLCeeh2uzCfzwE93IIWi0XA/axULHnKgPT5CLTZbK5gP7FUaWXVxi0Hg8FjvIgjAjocjvU8eSmKIusPh0Not9tkxyO+gGylUjmUM7aeDULTCP0Bu/WE7QFBd5gxAW9wnK3Vaid7ge/R6p3KoTx8QvRMyEOEPsGX0TM1NAIswXar1AAAAABJRU5ErkJggg==</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay>
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" EnableGrayScaleFormat="false" ExportFormat="png" DPI="120" medium_print_ExportFormat="png" medium_print_DPI="96" medium_screen_and__max_width__1279px__ExportFormat="png" medium_tablet_ExportFormat="png" medium_mobile_ExportFormat="png" medium_screen_and__max_width__900px__ExportFormat="png" medium_screen_and__min_width__1550px__ExportFormat="png" medium_screen_and__min_width__1279px__ExportFormat="png" medium_screen_and__min_width__1280px__ExportFormat="png" medium_screen_ExportFormat="png" Alt="Environment and ground icon" ComputedWidth="20" ComputedHeight="18" Format="png">iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH5QkbEzIE9CgfPwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACWElEQVQ4jZWUvUt6URyHn+THtReHvPnSUqCgDfYiCEZTiDpLLS3ODS61BNHSEtQeDfUnNCRRQ4gQiI1B1BVvXAdvUBRpKHQjgji/Qbp108Ke6ZzPOec5X845nB4hhKADmqahaRqKovDw8MDU1BTBYJBAIMDQ0FCnJQD0fBceHByQzWap1WqMjo4yMjKCw+FA0zR0Xef+/p6FhQVWVlY6G8UX0um0mJubE4VCQfxEoVAQy8vLIhaLCUVR2sZN4dLSktjd3f1R9J2dnR0RiUSEYRiW3AaQz+cpl8ssLi7+eDbfmZ6eZnZ2lq2tLUtuMwyD7e1tMplM17IPAoEAqqqyt7f3KVQUhYGBAVKp1J9kzWYTm81GMBjk6urqU1gqlYhEIn+u7vHxEQC3283l5aW1wr8Kb29vaTabAPT19WEYBqqqtoQej8fcrVsqlYrZ/njGHo+nJRwfH+fi4qJr2d3dHdfX12b/9fUVv9+PLMstYSgUolgsdlXl+/u75QIAGo0GExMTZt/m8/mIRqOcnp7+Kms0GhwfH6Prupk9PT1xdHTE/Py8mf0DWFtbI5lMIssyiUSiTXZzc0OxWOT5+dmS53I5Njc3CYVCnxUCOJ1ONjY2WF1dZX9/3xzUdZ1cLsfJyYlFZrfbOTw8JBwOk0wmLZtYfptqtcr6+jqyLDM8PEx/fz+SJAHw9vbGy8sL9Xqds7Mz4vE4MzMz2O12JElCkiTcbnf79wWQzWY5Pz9HVVWq1SoAvb29TE5O4nA4cLlcDA4Oth2N1+vtLPxKvV6nVqsxNjb22zST/4STbI+1bzEHAAAAAElFTkSuQmCC</OriginalImage>
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>
